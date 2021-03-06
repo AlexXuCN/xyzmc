@@ -1,7 +1,64 @@
+注：两行指令代表可用任意一条，通常前面一条为完整命令，后面为缩写
+
 登录插件
-注册：
-/register 密码 重复密码
-登录：
+登录
+/login 密码
 /l 密码
-绑定邮箱：
+注册
+/register 密码 重复密码
+/reg 密码 重复密码
+修改密码
+/changepassword 旧密码 新密码 重复新密码
+/changepw 旧密码 新密码 重复新密码
+绑定邮箱
 /bindemail
+/bdmail
+忘记密码，请求服务器给自己绑定的邮箱发送重置密码的验证码
+/resetpassword forget
+/repw forget
+用邮箱收到的验证码重置密码
+/bindemail re 验证码 新密码
+/bdmail re 验证码 新密码
+
+
+
+空岛插件
+/is为/island的缩写，此段不再重复
+第一次创建空岛/返回空岛
+/island
+获取插件帮助(英文)
+/island help
+重置空岛(需在10秒输入两次以确认，建议提前复制)
+/island reset
+
+/island ban
+/island banlist
+/island biomes
+/island challenges [Level]
+/island create
+/island go
+/island info
+/island language
+/island level [player]
+/island sethome
+/island setname
+/island settings
+/island spawn
+/island resetname
+/island unban
+/island team
+/island team accept
+/island team coop
+/island team demote
+/island team leave
+/island team invite
+/island team kick
+/island team promote
+/island team reject
+/island team setowner
+/island team trust
+/island top 	
+/island team uncoop
+/island team untrust
+/island warp
+/island warps
