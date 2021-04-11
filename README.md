@@ -36,8 +36,8 @@
 
 **创建/返回你的空岛**
 `/island`
-或`/is`
-![创建空岛-1](assets/images/Command-is-create-0.png ''普通空岛'')
+或`/is`  
+![Create-1](/assets/images/Command-is-create-0.png ''普通空岛'')
 
 
 **重置空岛**
