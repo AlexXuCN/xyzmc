@@ -32,6 +32,11 @@
 **创建/返回你的空岛**
 `/island`
 或`/is`
+![经典空岛](/assets/images/Command-is-create-0.png "经典空岛")
+![双空岛](/assets/images/Command-is-create-1.png "双空岛")
+![更更更更难的空岛](/assets/images/Command-is-create-2.png "更更更更难的空岛")
+![L形空岛](/assets/images/Command-is-create-3.png "L形空岛")
+
 
 **重置空岛**
 `/island reset`
