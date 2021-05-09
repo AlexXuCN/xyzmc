@@ -1,0 +1,26 @@
+
+/island ban
+/island banlist
+/island biomes
+/island challenges [Level]
+/island info
+/island level [player]
+/island sethome
+/island spawn
+/island unban
+/island team
+/island team accept
+/island team coop
+/island team demote
+/island team leave
+/island team invite
+/island team kick
+/island team promote
+/island team reject
+/island team setowner
+/island team trust
+/island top 	
+/island team uncoop
+/island team untrust
+/island warp
+/island warps
