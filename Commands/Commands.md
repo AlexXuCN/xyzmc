@@ -44,12 +44,15 @@
 
 **回到空岛**  
 `/island go`  
-或`/is go`
+或`/is go`  
+或`/island spawn`  
+或`/is spawn`
 
 **重置空岛**  
 `/island reset`  
 或`/is reset`  
-*需在10秒输入两次以确认，建议提前复制
+*需在10秒输入两次以确认，建议提前复制  
+**务必三思而后行**
 
 ### 岛屿等级
 
@@ -58,7 +61,7 @@
 **查看**  
 `/island level [player]`  
 或`/is level [player]`  
-\* [player ]参数为玩家名, 代表查看谁的等级, 输入时不用带 "[" 和 "]"  
+*[player ]参数为玩家名, 代表查看谁的等级, 输入时不用带 "[" 和 "]"  
 不加 [player] 代表自己
 
 **排名**  
@@ -97,6 +100,33 @@
 
 ### 多人游戏
 还没写完呢
+
+
+### warp传送
+
+#### 使用空岛传送牌
+
+**设置方法**
+
+在**你的**空岛上立一块告示牌  
+上书
+
+> [Welcome]  
+
+![传送牌](/assets/images/Command-is-language-cn.png "传送牌")  
+如果你的岛屿等级足够，应该会有提示，并且牌子的字会变绿
+
+**去到某人的传送牌**  
+`/island warp <player>`  
+或`/is warp <player>`  
+*\<player\>参数为玩家名, 输入时不用带 "<" 和 ">"  
+
+**去到某人的传送牌(带UI)**
+`/island warps`  
+或`/is warps`
+
+#### 使用warp插件
+
 
 ---
 ~~咕咕咕~~
