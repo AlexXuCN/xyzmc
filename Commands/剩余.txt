@@ -1,8 +1,6 @@
-
 /island ban
 /island banlist
 /island challenges [Level]
-/island level [player]
 /island spawn
 /island unban
 /island team
@@ -16,7 +14,6 @@
 /island team reject
 /island team setowner
 /island team trust
-/island top 	
 /island team uncoop
 /island team untrust
 /island warp
