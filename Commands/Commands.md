@@ -26,17 +26,17 @@
 ## 空岛插件
 ### 常规
 
-**获取空岛插件帮助**
-`/island help`
+**获取空岛插件帮助**  
+`/island help`  
 或`/is help`  
 
-**创建/回到你的空岛**
-`/island`
-或`/is`
-![经典空岛](/assets/images/Command-is-create-0.png "经典空岛")
-![双空岛](/assets/images/Command-is-create-1.png "双空岛")
-![更更更更难的空岛](/assets/images/Command-is-create-2.png "更更更更难的空岛")
-![L形空岛](/assets/images/Command-is-create-3.png "L形空岛")
+**创建/回到你的空岛**  
+`/island`  
+或`/is`  
+![经典空岛](/assets/images/Command-is-create-0.png "经典空岛")  
+![双空岛](/assets/images/Command-is-create-1.png "双空岛")  
+![更更更更难的空岛](/assets/images/Command-is-create-2.png "更更更更难的空岛")  
+![L形空岛](/assets/images/Command-is-create-3.png "L形空岛")  
 
 **创建空岛**  
 `/island create`  
@@ -52,7 +52,12 @@
 `/island reset`  
 或`/is reset`  
 *需在10秒输入两次以确认，建议提前复制  
-**务必三思而后行**
+* **三思而后行！！！**
+
+**空岛商店** (其实是空岛的挑战任务，当商店来用吧)  
+`/island challenges`
+或`/is challenges`
+
 
 ### 岛屿等级
 
@@ -99,12 +104,75 @@
 或`/is biomes`
 
 ### 多人游戏
-还没写完呢
 
+**获取帮助**  
+`/island team`  
+或`/is team`
 
-### warp传送
+**邀请他人加入自己的岛屿**  
+`/island team invite <player>`  
+或`/is team invite <player>`  
+*\<player\>参数为玩家名, 输入时不用带 "<" 和 ">"  
+* **被邀请者如果接受，他的岛屿将不复存在！！！！！！**  
 
-#### 使用空岛传送牌
+**接受邀请**  
+`/island accept`  
+或`/is accept`  
+* **三思而后行！！！**   
+
+**拒绝邀请**  
+`/island reject`  
+或`/is reject`
+
+**离开这个让你心碎的岛屿**  
+`/island team leave`  
+或`/is team leave`  
+*岛屿所有者无法使用
+
+**从岛屿中移除玩家**  
+`/island team kick <player>`  
+或`/is team kick <player>`  
+*\<player\>参数为玩家名, 输入时不用带 "<" 和 ">"  
+*仅岛屿所有者可用
+
+**转移岛屿所有者**  
+`/island team setowner <player>`  
+或`/is team setowner <player>`  
+*\<player\>参数为玩家名, 输入时不用带 "<" 和 ">"  
+*仅岛屿所有者可用
+
+**信任岛外人员**
+`/island team trust <player>`  
+或`/is team trust <player>`  
+*\<player\>参数为玩家名, 输入时不用带 "<" 和 ">"  
+*仅岛屿所有者可用
+
+**取消信任岛外人员**(上一条的反向操作)
+`/island team untrust <player>`  
+或`/is team untrust <player>`  
+*\<player\>参数为玩家名, 输入时不用带 "<" 和 ">"  
+*仅岛屿所有者可用
+
+**ban掉岛外人员**(禁止通过任何方式入岛)
+`/island ban <player>`  
+或`/is ban <player>`  
+*\<player\>参数为玩家名, 输入时不用带 "<" 和 ">"  
+*仅岛屿所有者可用
+
+**取消ban**(上一条的反向操作)
+`/island unban <player>`  
+或`/is unban <player>`  
+*\<player\>参数为玩家名, 输入时不用带 "<" 和 ">"  
+*仅岛屿所有者可用
+
+**被ban列表**
+`/island banlist <player>`  
+或`/is banlist <player>`  
+*\<player\>参数为玩家名, 输入时不用带 "<" 和 ">"  
+
+## 传送
+
+### 使用空岛传送牌
 
 **设置方法**
 
@@ -125,8 +193,34 @@
 `/island warps`  
 或`/is warps`
 
-#### 使用warp插件
+### 使用warp插件  
 
+*注: 最多设置三个传送点
 
----
-~~咕咕咕~~
+**设置传送点**  
+`/warp set \<名称\>`  
+**\<名称\>参数为传送点名, 输入时不用带 "<" 和 ">"  
+
+**删除传送点**  
+`/warp del \<名称\>`  
+**\<名称\>参数为传送点名, 输入时不用带 "<" 和 ">"  
+
+**传送至传送点**  
+`/warp \<名称\>`  
+**\<名称\>参数为传送点名, 输入时不用带 "<" 和 ">"  
+
+### tpa  
+
+**发送传送到对方请求**  
+`/tpa <player>`
+*\<player\>参数为玩家名, 输入时不用带 "<" 和 ">"  
+
+**发送传送对方到此请求**  
+`/tpahere <player>`
+*\<player\>参数为玩家名, 输入时不用带 "<" 和 ">"  
+
+**接受请求**  
+`/tpaccept`
+
+**拒绝请求**  
+`/tpdeny`
