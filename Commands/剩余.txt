@@ -1,11 +1,8 @@
 
 /island ban
 /island banlist
-/island biomes
 /island challenges [Level]
-/island info
 /island level [player]
-/island sethome
 /island spawn
 /island unban
 /island team
