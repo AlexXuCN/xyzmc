@@ -57,6 +57,10 @@
 `/island language`
 或`/is language`
 
+**查看参数**  
+`/island info`  
+或`/is info`
+
 **空岛参数设置**  
 `/island settings`
 或`/is settings`  
@@ -68,6 +72,14 @@
 *重置名称  
 `/island resetname`  
 或`/is resetname`
+
+**空岛出生点**  
+`/island sethome`  
+或`/is sethome`
+
+**生物群系**(暂时没什么卵用)  
+`/island biomes`  
+或`/is biomes`
 
 ### 多人游戏
 还没写完呢
