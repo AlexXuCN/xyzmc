@@ -31,8 +31,8 @@ tpa个人设置 `/tpa settings`
 
 ## 经济
 
-**主菜单**  
-`/money`
+**查询余额**  
+`/mymoney`
 
 **商店**  
 `/shop`
