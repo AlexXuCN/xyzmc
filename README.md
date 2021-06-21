@@ -1,6 +1,8 @@
 # XYZ公社
 ***一个奇怪的mc服务器***
 
+> 5周目啦!
+
 本服采用BDS服务端，保证完整原版特性，暂时不启用白名单。  
 使用了一些功能插件，保证舒适的游戏体验  
 
@@ -20,12 +22,20 @@ Hmm...
 > 都说了很辣鸡  
 
 **服务端**  
-BDS(Bedrock Dedicated Server)+Liteloader(此liteloader非彼liteloader，某BDS插件注入器)  
+BDS (Bedrock Dedicated Server) +Liteloader (此liteloader非彼liteloader，某BDS插件注入器)    
+未开启作弊 (使用插件强开指令) ，可以获得Xbox成就  
+开启了Xbox验证，需要登录微软账号 (官方推荐的服务器能进就对了)
 
 
 使用插件:
-LLMoney(经济插件)  
-PFShop(商店)  
-LLEssentials(多功能聚合)  
+LLMoney (经济插件)  
+PFShop (商店,暂时无用)  
+LLEssentials (多功能聚合)  
 
+## 服务器指令
 
+详见[此文档](/5th/Commands/Commands.md "指令文档")
+
+## 注意事项
+
+> 玩的开心!

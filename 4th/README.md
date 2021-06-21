@@ -13,7 +13,7 @@
 
 ## 服务器指令
 
-**具体请参考[这个](/Commands/Commands.md "指令文档")**
+**具体请参考[这个](/4th/Commands/Commands.md "指令文档")**
 
 ## 新人请看↓
 ### 第一次进服
@@ -58,4 +58,4 @@
 *需在10秒输入两次以确认，建议提前复制
 
 ---
-剩余部分请见[这个](/Commands/Commands.md "指令文档")
+剩余部分请见[这里](/4th/Commands/Commands.md "指令文档")
