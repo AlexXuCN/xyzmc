@@ -33,10 +33,10 @@
 **创建/回到你的空岛**  
 `/island`  
 或`/is`  
-![经典空岛](/assets/images/Command-is-create-0.png "经典空岛")  
-![双空岛](/assets/images/Command-is-create-1.png "双空岛")  
-![更更更更难的空岛](/assets/images/Command-is-create-2.png "更更更更难的空岛")  
-![L形空岛](/assets/images/Command-is-create-3.png "L形空岛")  
+![经典空岛](/4th/assets/images/Command-is-create-0.png "经典空岛")  
+![双空岛](/4th/assets/images/Command-is-create-1.png "双空岛")  
+![更更更更难的空岛](/4th/assets/images/Command-is-create-2.png "更更更更难的空岛")  
+![L形空岛](/4th/assets/images/Command-is-create-3.png "L形空岛")  
 
 **创建空岛**  
 `/island create`  
@@ -181,7 +181,7 @@
 
 > [Welcome]  
 
-![传送牌](/assets/images/Command-is-language-cn.png "传送牌")  
+![传送牌](/4th/assets/images/Command-is-language-cn.png "传送牌")  
 如果你的岛屿等级足够，应该会有提示，并且牌子的字会变绿
 
 **去到某人的传送牌**  
