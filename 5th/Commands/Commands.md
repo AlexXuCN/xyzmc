@@ -34,6 +34,11 @@ tpa个人设置 `/tpa settings`
 **查询余额**  
 `/mymoney`
 
+**主菜单**  
+`/money gui`  
+\*注:可执行转账,查看排行榜等操作  
+直接`/money`是没有用的!
+
 **商店**  
 `/shop`
 
