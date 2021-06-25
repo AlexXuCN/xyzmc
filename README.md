@@ -29,8 +29,8 @@ BDS (Bedrock Dedicated Server) +Liteloader (此liteloader非彼liteloader，某B
 
 使用插件:
 LLMoney (经济插件)  
-PFShop (商店,暂时无用)  
-LLEssentials (多功能聚合)  
+PFShop (商店)  
+PFEssentials (多功能,TPA,Home之类)  
 
 ## 服务器指令
 
@@ -38,4 +38,6 @@ LLEssentials (多功能聚合)
 
 ## 注意事项
 
-> 玩的开心!
+* 熊啊偷东西啊开挂啊之类就算了  
+* 请持续关注此文档  
+* 玩得开心!
