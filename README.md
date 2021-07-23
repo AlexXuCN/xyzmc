@@ -24,7 +24,7 @@ Hmm...
 **服务端**  
 BDS (Bedrock Dedicated Server) +Liteloader (此liteloader非彼liteloader，某BDS插件注入器)    
 未开启作弊 (使用插件强开指令) ，可以获得Xbox成就  
-开启了Xbox验证，需要登录微软账号 (官方推荐的服务器能进就对了)
+开启了Xbox验证，需要登录微软账号
 
 ## 服务器指令
 
