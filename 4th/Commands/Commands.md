@@ -181,7 +181,7 @@
 
 > [Welcome]  
 
-![传送牌](/4th/assets/images/Command-is-language-cn.png "传送牌")  
+![传送牌](/4th/assets/images/Command-is-warp-0.png "传送牌")  
 如果你的岛屿等级足够，应该会有提示，并且牌子的字会变绿
 
 **去到某人的传送牌**  
