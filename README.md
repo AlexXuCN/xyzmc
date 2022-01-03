@@ -3,11 +3,10 @@
 
 > 7周目啦!  
 
-本服采用BDS服务端，保证完整原版特性，暂未启用白名单。  
+本服采用BDS服务端，保证完整原版特性，启用白名单，获取方式见[##群内指令](https://github.com/AlexXuCN/xyzmc#%E7%BE%A4%E5%86%85%E6%8C%87%E4%BB%A4)。  
 使用了一些功能插件，保证舒适的游戏体验  
 以及...Addons! (虽然我自己都还没玩太懂)   
-
-> 请注意服务弃目前仍是beta状态，可能有点不稳定，最坏的情况是删档重来（尽量不会）  
+ 
 > 服务器还有没完善的地方，详见[To 咕 List](https://github.com/AlexXuCN/xyzmc#To%20%E5%92%95%20List)
 
 > 呃服务器介绍暂时咕亿会因为实在没想好
@@ -41,8 +40,16 @@ BDS (Bedrock Dedicated Server) +Liteloader (此liteloader非彼liteloader，某B
 * 玩得开心!
 
 
-## 群内指令  
-**查询服务器状态和在线玩家列表**  
+## 群内指令 
+> 请在群内直接发送指令消息以使用  
+  示例:
+![示例](7th/images/assets/command-in-qqgroup-list.png)
+
+**绑定Xbox ID(获取白名单)**  
+`/bind <你的id>`  
+*不要加尖括号*
+
+**查询在线玩家列表**  
 `/list`
 
 **查询服务器状态**  
@@ -50,10 +57,8 @@ BDS (Bedrock Dedicated Server) +Liteloader (此liteloader非彼liteloader，某B
 注:如果返回"查询失败 请检查服务器是否开启"则表明服务器此时已关闭或无法连接，请反馈给腐竹.
 
 ## To 咕 List  
-服务器目前处于beta状态，请持续关注本文档
-
-**[  ] 鹅群 - 服务弃的互通**  
-*包括聊天，白名单，指令等，届时将会开启服务弃白名单*  
+请持续关注本文档
+ 
 **[  ] Addons的汉化**  
 *目前是全英文，如果想帮忙请联系Alex*  
 **[  ] 做一些服务弃附加包**  
