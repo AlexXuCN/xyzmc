@@ -9,41 +9,32 @@
 
 > 串门再也不用那么辛苦地跑图啦  
 
-打开图形界面 `/tpa gui`或`/tpahere gui`  
-申请tpa到某玩家 `/tpa <player>`  
-申请将某玩家tpa到这里 `/tpahere <player>`  
-接受申请 `/tpa accept`  
-拒绝申请 `/tpa deny`  
-tpa个人设置 `/tpa settings`
+申请tpa到某玩家：`/tpa <player>`  
+申请将某玩家tpa到这里：`/tpahere <player>`  
+接受申请：`/tpaccept`  
+拒绝申请：`/tpdeny`  
 
 **home**  
-记坐标？跑图？麻烦!  
-打开图形界面 `/home`  
-添加home `/home add <名字>`  
-删除home `/home del <名字>`  
-前往home `/home go <名字>`  
-查看home列表 `/home list`
+记坐标？跑图？麻烦!   
+传送到家里：`/home` 
+设置或更新家：`/home set`  
+删除家：`/home del` 
+邀请玩家到你家：`/home invite`  
+将玩家从你的家中开除：`/home uninvite`   
+列出你家的朋友：`/home flist`   
+清除你家的朋友：`/home fclear`    
+传送到你朋友家：`/home [player]`    
+列出你被邀请的家：`/fhome list`    
 
+**warp**  
+`/warp` 
 
-**back**  
-回到上一个死亡点  
-`/back`
+**is**  
+`/is`
 
-## 经济
+**粘液科技**  
+`/sf`
 
-**查询余额**  
-`/mymoney`
-
-**主菜单**  
-`/money gui`  
-\*注:可执行转账,查看排行榜等操作  
-直接`/money`是没有用的!
-
-**商店**  
-`/shop`
-
-## 杂项
-
-**查看死亡记录**  
-黑历史(bushi)  
-`/death`
+**经济**  
+查询钱：`/money` 
+查询银行存款：`/bank
